@@ -13,4 +13,6 @@ Here, I plan on creating a flexible site that can handle various statements with
 
 
 ### Possible Expansions
-There are different ways in which
+There are different ways in which the site can be improved:
+- Involvement of other discrete mathematics topics such as creating proofs and saving definitions
+- Create example problems to help students learn
